@@ -1,0 +1,9 @@
+USERNAME == ryan.hung
+PASSWORD == Aa111111
+XPath_GT_english==//*[@id="i14"]/span[3]
+XPath_GT_inputtext==//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/span/span/div/textarea
+XPath_GT_outputtext==//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div[6]/div/div[1]/span[1]/span/span
+XPath_GT_clean==//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/div[1]
+XPath_GT_chinese==//*[@id="i13"]/span[3]
+XPath_translate == //*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div[8]/div/div[1]
+XPath_speaker ==//*[@id="ow417"]/div/span/button/div[3]
